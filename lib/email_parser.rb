@@ -15,4 +15,7 @@
 #end
 
 class EmailParser
+  
+  attr_accessor :emails
+  
 end
