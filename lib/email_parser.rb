@@ -14,3 +14,5 @@
 
 #end
 
+class Email EmailParser
+end
