@@ -14,5 +14,5 @@
 
 #end
 
-class Email EmailParser
+class EmailParser
 end
